@@ -11,3 +11,6 @@ your Linux distro.
 
 How to run:
 ./a.out
+
+Video describing use:
+https://www.youtube.com/watch?v=IShkpNzYnyw
